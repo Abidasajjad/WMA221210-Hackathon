@@ -1,0 +1,78 @@
+*{margin: 0;
+padding:0%
+}
+/* navbar section */
+.navbar{
+    width: 100%;
+    height:10vh;
+    background-color: rgb(62, 63, 63);
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    
+}
+.nav-items ul{
+    width: 100%;
+    height:10vh;
+    background-color: rgb(62, 63, 63);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+
+}
+.nav-items ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    justify-content: space-around;
+}
+.nav-items ul li{
+    list-style: none;
+}
+button{
+    width:120px;
+    height:40px;
+    color: aliceblue;
+    background-color: rgb(62, 63, 63);
+    margin: 30px;
+}
+/* hero section */
+
+.hero{
+    width:100%;
+    Height:100vh;
+    background-color: rgb(62, 63, 63);
+    
+
+}
+.heading{
+    width:40%;
+    Height:20vh;
+    color:aliceblue;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.yandex{
+    color:blueviolet
+
+}
+.para{
+    color:aliceblue;
+    font-size: larger;
+}
+.button-H button{
+
+    color:black;
+    background-color: rgb(245, 180, 15);
+    border-radius: 5px;
+}
+
+.image2 img {
+    width:400px;
+
+}
+.image3 img{
+    width: 300px;
+
+}
+    
